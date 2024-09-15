@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grgea.github.io/wZl/sitemap.wZl.gz
